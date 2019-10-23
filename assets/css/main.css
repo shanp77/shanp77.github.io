@@ -33,6 +33,12 @@ body {
 	line-height: 1;
 }
 
+/* my add ons for main page */
+.project-link {
+	color: blue;
+	font-weight: bold;
+}
+
 ol, ul {
 	list-style: none;
 }
